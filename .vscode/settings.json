@@ -10,5 +10,8 @@
     "tuple": "cpp",
     "type_traits": "cpp",
     "utility": "cpp"
+  },
+  "[c++]": {
+    "editor.tabSize": 4
   }
 }
